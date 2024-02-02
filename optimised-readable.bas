@@ -1,7 +1,7 @@
 10 REM Tree of Pythagoras
 20 REM by P G McTiernan
 30 REM for BBC B/B+/M/C/E
-40 REM (c) Acorn user June 1987
+40 REM (c) Acorn User June 1987
 50 :
 60  MODE 4
 70  RESTORE 350
