@@ -8,10 +8,12 @@
 80  FOR N% = 1 TO 2
 90    READ M%,L%,H%,delta,a
 100   CLS
+101   TIME=0
 110   a=RAD(a)
 120   s2=SIN(a)*SIN(a)
 130   sc=SIN(a)*COS(a)
 140   PROCtree(M%-L%,H%,M%+L%,H%)
+141   PRINT TIME
 150   REPEAT UNTIL GET
 160 NEXT
 170 END
