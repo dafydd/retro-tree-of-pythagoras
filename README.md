@@ -26,3 +26,8 @@ Second:
 ![pics/output-2.jpg](pics/output-2.jpg)
 
 `DATA 375,90,150,15,30`
+
+Alternate version: (original listing code)
+
+![pics/output-3.jpg](pics/output-3.jpg)
+
