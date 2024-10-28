@@ -13,7 +13,7 @@ Tree of Pythagoras in BBC Basic
 - paste the code into jsbeeb and `RUN` it
 
 ## output
-It makes two plots.
+[optimised-readable.bas](optimised-readable.bas) makes two plots.
 
 First:
 
@@ -27,7 +27,7 @@ Second:
 
 `DATA 375,90,150,15,30`
 
-Alternate version: (original listing code)
+Alternate version: [alternate-readable.bas](alternate-readable.bas)
 
 ![pics/output-3.jpg](pics/output-3.jpg)
 
